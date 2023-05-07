@@ -4,7 +4,7 @@ import { ContactsForm } from './ContactsForm/ContactsForm';
 import { Filter } from './Filter/Filter';
 
 export const App = () => {
-
+  
   return (
     <Container>
       <ContactsForm  />
